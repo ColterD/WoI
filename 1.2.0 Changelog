@@ -1,1 +1,175 @@
-temporary
+v1.2.0:
+Changes:
+
+Upgraded:
+- Forge v14.23.5.2815
+
+Known Issues:
+- EnderIO Solar Panels disabled due to game-crashing bug.
+- Some Mekanism items not showing properly in JEI and in hotbar.  Issue with Mekanism and Forge.
+
+Added:
+- Actually Baubles
+- AtomicStryker's Infernal Mobs
+- AttributeFix
+- Baubles
+- BaublesHud
+- Bullseye
+- Ced's Unleased Control
+- Chunk Pregenerator
+- Deep Sea Expansion
+- Dynamic Trees - Thaumcraft Compat
+- Ender IO Endergy
+- Familiar Fauna
+- FTB Quests
+- Hammer Core
+- Hunger Overhaul
+- ICBM Classic
+- Integrated Dynamics
+- Just Enough Energistics (JEE)
+- Main Menu Scale
+- Modular Forcefield System
+- Nether Portal Fix
+- No Recipe Book
+- Pet Buddy Mod
+- Power Chisels (for Chisel)
+- Proportional Destruction Particles
+- Random Patches
+- Random Things mod
+- ReAuth
+- ReWIRED
+- Robotic Parts
+- Rustic Thaumaturgy
+- Smooth Font
+- SpatialCompat for AE2
+- Swing Through Grass
+- Thaumcraft
+- Thaumcraft 6 Aspects for JEI
+- Thaumic Additions: Reconstructed
+- Thaumic Computers
+- Thaumic Energistics
+- Thaumic Inventory Scanning
+- Thaumic JEI
+- Thaumic Periphery
+- Thaumic Terminal
+- Thaumic Tinkerer
+- TidyChunk
+- ToastControl
+- Uppers (Upside Down Hoppers)
+- Wither Skeleton Tweaks
+- Woot
+
+Removed:
+- Advanced Rocketry
+- B.A.S.E.
+- Content Tweaker
+- Deep Resonance
+- Exchangers
+- FTB Guides
+- InstantUnify
+- InventoryPets
+- IronBackpacks
+- IronChests
+- JAOPCA
+- JAOPCA Agriculture
+- LetsEncryptCraft
+- LibVulpes
+- LunatriusCore
+- MineColonies
+- MPUtils
+- MPUtils Basic Tools
+- Patchouli
+- ProjectE
+- Soul Shards Respawn
+- Soul Shards: The Old Ways
+- Thermal Cultivation
+- TrackAPI
+
+Configuration Changes:
+- Added Engineer's Hammer to Morph-o-Tool compatibility
+- Added Iron AIOT, direct upgrade from Stone AIOT.  1500 Durability
+- Added most books to Akashic Tome on initial spawn
+- Bedrock Flat again... whoops!
+- Better looking changelog, woo!
+- Changed main menu design... again!
+- Changed splash animation on initial load
+- Cleaned up config folder... again!
+- Disabled (most) Lava Mobs from LycanitesMobs
+- Disabled Rose Gold spawning, delete existing mined ores as they are useless.
+- Fixed Patchouli Book image bug
+- Modified all Skeletons in the Nether to become Wither Skeletons
+- Natura Cotton disabled, Pams HarvestCraft Cotton preferred
+- Re-enabled all vanilla armors
+- Set Better Sprinting to have double tap enabled by default
+- Toned down the spawn rates (a LOT) on Nether Portals for LycanitesMobs
+- Toned down the spawn rates in LycanitesMobs in general
+
+Scripting Changes:
+- Added alternative way to craft Nether Stars
+- Allowed a way to craft gunpowder
+- Allowed more books to be compatible with Akashic Tome
+- Changed default fonts and font settings
+
+Updated:
+- Actually Additions
+- Advanced Rocketry
+- Aroma1977Core
+- Aroma1977s Dimensional World
+- Binnie's Mods
+- Biomes-o-Plenty
+- Bookshelf
+- Chisels and Bits
+- COFHCore
+- Common Capabilities
+- Construct's Armory
+- Cooking for Blockheads
+- CoroUtil
+- Cosmetic Armor Reworked
+- CraftPresence
+- CraftStudio API
+- Cyclic
+- Cyclops Core
+- Dark Utilities
+- Draconic Evolution
+- Dynamic Trees
+- Dynamic Trees - Pam's Harvestcraft Compat
+- Dynamic Trees - Traverse Compat
+- End: Reborn
+- Forestry
+- ForgeMultipart CBE
+- FTB Library
+- FTB Utilities
+- Industrial Foregoing
+- Integrated Dynamics
+- Iron Chests
+- Just Enough Items (JEI)
+- LibVulpes
+- Mantle
+- McJtyLib
+- Minecolonies
+- Mob Grinding Utils
+- Morph-o-Tool
+- MouseTweaks
+- Mystical Agradditions
+- Mystical Agriculture
+- Natura
+- Nuclearcraft
+- OpenComputers
+- Patchouli
+- PlusTic
+- ProjectE
+- Quantum Storage
+- Quark
+- RandomTweaks
+- Reborn Core
+- RFTools
+- RFTools Control
+- RFTools Dimensions
+- RFTools Power
+- Rustic
+- SilentLib
+- Super Sound Muffler
+- Tinkers Construct
+- XNet
+- xNICEx
+- YABBA
