@@ -18,6 +18,12 @@ Added:
 - Magneticraft
 - Phosphor
 
+Config Fixes:
+- Disabled Abaias from spawning (very massive, very spammy)
+- Disabled Aegis (VERY LOUD)
+- Disabled Triffids from spawning (farmers rejoice!)
+- Halved the spawn rate for Geonachs
+
 Removed:
 - Overloaded Armor bar
 
