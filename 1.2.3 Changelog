@@ -6,7 +6,6 @@ Fixes:
 - Added JEI Integration mod to fix Twilight Forest issues.
 - Changed Cable Anchor recipe so it'll actually refund the Saw
 - Created recipe for Immersive Engineering Fluid Pipe
-- Modified Overloaded Armor Bar to fix visual UI bug
 - Updates to Dynamic Trees for better farming, saplings now stay saplings and not dynamic tree versions
 
 Added:
@@ -15,6 +14,9 @@ Added:
 - JustEnoughIDs Integration
 - Magneticraft
 - Phosphor
+
+Removed:
+- Overloaded Armor bar
 
 Forge Updated:
 - v14.23.5.2838
