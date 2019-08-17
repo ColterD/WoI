@@ -1,0 +1,149 @@
+v1.2.3:
+Changes:
+
+Fixes:
+- Added an alternative fertilizer recipe using ash
+- Added JEI Integration mod to fix Twilight Forest issues.
+- Changed Cable Anchor recipe so it'll actually refund the Saw
+- Created recipe for Immersive Engineering Fluid Pipe
+- Modified Overloaded Armor Bar to fix visual UI bug
+- Updates to Dynamic Trees for better farming, saplings now stay saplings and not dynamic tree versions
+
+Added:
+- Bonsai Trees
+- Giacomo's Foundry
+- JustEnoughIDs Integration
+- Magneticraft
+- Phosphor
+
+Forge Updated:
+- v14.23.5.2838
+
+Updated:
+- Actually Additions
+- AE2 Wireless Terminal Library
+- Applied Energistics 2
+- ArchitectureCraft - TridentMC Version
+- ArmorPlus
+- AtomicStryker's Infernal Mobs
+- AutoRegLib
+- Better Sprinting
+- Biomes O' Plenty
+- Blockcraftery
+- Bonsai Trees
+- Bookshelf
+- Brandon's Core
+- Carry On
+- Chicken Chunks 1.8+
+- Chisels & Bits
+- CodeChicken Lib 1.8+
+- CoFH Core
+- CoFH World
+- Common Capabilities
+- Compact Machines
+- Cooking for Blockheads
+- Corail Tombstone
+- CoroUtil
+- Cosmetic Armor Reworked
+- CraftPresence
+- CraftTweaker
+- Cyclic
+- Cyclops Core
+- Dark Utilities
+- Draconic Evolution
+- Dynamic Trees
+- End: Reborn
+- Ender Storage 1.8+
+- Ender Utilities
+- EnderCore
+- EnderIO
+- EnderIO Endergy
+- Farseek
+- FastFurnace
+- FastWorkbench
+- FoamFix for Minecraft
+- Forestry
+- Forge MultiPart CBE
+- FTB Library
+- FTB Quests
+- FTB Utilities
+- FTB Utilities: Backups
+- HammerCore
+- Hunting Dimension
+- Industrial Foregoing
+- Inspirations
+- Item Filters
+- JourneyMap
+- Just Enough Energistics
+- Just Enough HarvestCraft
+- Just Enough Resources
+- LibraryEx
+- Lycanites Mobs
+- Mantle
+- McJtyLib
+- Mekanism
+- Mekanism Generators
+- Mekanism Tools
+- Minecraft Comes Alive
+- Mod Name Tooltip
+- ModTweaker
+- More Overlays
+- Mr Crayfish's Furniture Mod
+- Mystical Agradditions
+- Mystical Agriculture
+- MysticalLib
+- Natura
+- NetherEx
+- Nuclearcraft
+- OpenBlocks
+- OpenBlocks Elevator
+- OpenModsLib
+- Overloaded Armor Bar
+- p455w0rd's Library
+- Pam's HarvestCraft
+- Patchouli
+- Phosphor
+- Placebo
+- PlusTiC
+- Quark
+- Random Patches
+- Random Things
+- Random Tweaks
+- Reborn Core
+- Reborn Storage
+- Refined Storage
+- Restone Arsenal
+- ReWIRED
+- RFTools
+- RFTools Control
+- RFTools Dimensions
+- RFTools Power
+- Robotic Parts
+- Ruins
+- Rustic
+- Rustic Thaumaturgy
+- Shadowfacts' Forgelin
+- Simply Jetpacks 2
+- Smooth Font
+- Streams
+- Thaumic Additions: Reconstructed
+- Thaumic Energistics
+- Thaumic JEI
+- Thaumic Terminal
+- The Twilight Forest
+- Thermal Dynamics
+- Thermal Expansion
+- Thermal Foundation
+- Thermal Innovation
+- Tinkers Construct
+- Tinkers' Complement
+- Toast Control
+- Translocators
+- Wawla
+- Wireless Crafting Terminal
+- Wireless Redstone CBE
+- Woot
+- XNet
+- xNICEx
+- YABBA
+- YNot
