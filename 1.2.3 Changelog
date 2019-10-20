@@ -2,33 +2,65 @@ v1.2.3:
 
 Not required, but recommended creating a new world.
 
-Changes:
+Existing Issues:
+- Cable Anchor recipe still requires an entire Saw for 4 pieces.
+- Actually Additions Farmer still spawning Cotton from Barley seeds. (See issue: https://github.com/Ellpeck/ActuallyAdditions/issues/1207)
 
 Fixes:
 - Added an alternative fertilizer recipe using ash
-- Added JEI Integration mod to fix Twilight Forest issues.
-- Changed Cable Anchor recipe so it'll actually refund the Saw
 - Created recipe for Immersive Engineering Fluid Pipe
 - Updates to Dynamic Trees for better farming, saplings now stay saplings and not dynamic tree versions
 
 Added:
+- Autoswitch
+- Better Diving
+- BetterPortals
+- Biome Bundle
 - Bonsai Trees
+- Giacomo's Bookshelf
 - Giacomo's Foundry
+- Ice and Fire
 - JustEnoughIDs Integration
 - Magneticraft
+- Mowzie's Mobs
+- Multi Mine
+- Ocean Floor - Clay/Sand/Dirt
+- Open Terrain Generator
 - Phosphor
+- Surge
+- ThebombzenAPI
+- Traveller's Backpack
+- Treasure2!
+- Trees of Stages
+
+Removed:
+- Biomes O Plenty
+- Dynamic Lights
+- Dynamic Trees
+- Overloaded Armor Bar
+- ReWIRED
+- Robotic Parts
+- Rustic BoP Woods
 
 Config Fixes:
 - Disabled Abaias from spawning (very massive, very spammy)
 - Disabled Aegis (VERY LOUD)
+- Disabled Nether Portals from spawning Lycanites Mobs
+- Disabled Pigmen from spawning at Nether Portal
+- Disabled Pinky (nether spawn)
 - Disabled Triffids from spawning (farmers rejoice!)
-- Halved the spawn rate for Geonachs
+- Enabled Platinum Ore to spawn
+- Halved Afrit spawnrate
+- Halved Geonach spawnrate
+- Halved Gesalt spawnrate
+- Halved Lurker spawnrate
+- Halved Salamander spawnrate
+- Increased Digital Miner range (from 32 to 100)
 
-Removed:
-- Overloaded Armor bar
-
-Forge Updated:
-- v14.23.5.2838
+Forge:
+- Dimmed Forge Loading Screen
+- Updated Main Menu to be prettier
+- Updated to v14.23.5.2847
 
 Updated:
 - Actually Additions
@@ -62,7 +94,6 @@ Updated:
 - Cyclops Core
 - Dark Utilities
 - Draconic Evolution
-- Dynamic Trees
 - End: Reborn
 - Ender Storage 1.8+
 - Ender Utilities
@@ -124,12 +155,10 @@ Updated:
 - Reborn Storage
 - Refined Storage
 - Restone Arsenal
-- ReWIRED
 - RFTools
 - RFTools Control
 - RFTools Dimensions
 - RFTools Power
-- Robotic Parts
 - Ruins
 - Rustic
 - Rustic Thaumaturgy
