@@ -7,7 +7,6 @@ Important Changes:
 
 Added:
 - Puddles
-- Idō
 - TekTopia
 - TekTopia Information
 - Xaero's Minimap
@@ -26,12 +25,16 @@ Removed:
 - Giacomo's Bookshelf (Inspirations provides same functionality)
 - Hats (will bring back when I redesign for multiplayer)
 - ICBM-Classic (will bring back when I redesign for multiplayer)
+- JEIBees (see Forestry)
 - JourneyMap (see Important Changes)
 - MinecraftComesAlive! (not needed with TekTopia)
 - TexFix (not required, but will recommend if you use large texture packs)
 - Traverse: Legacy Continued (not needed anymore)
 - Treasure2! (unnecessary)
 - Weather, Storms, & Tornados (hasn't been relevant for a while)
+
+Recipe Changes:
+- Bonsai Pots are now harder to make
 
 Config Changes:
 - Changed spawn weight for Aglebemu from 8 to 1
@@ -47,6 +50,8 @@ Config Changes:
 - Halved Geonach spawnrate
 - Halved Quillbeast spawnrate
 - Halved Roc spawnrate
+- Moved Day/Night clock below minimap
+- Removed obsolete custom recipes for removed mods
 
 Updated:
 - BetterDiving
