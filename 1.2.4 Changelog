@@ -10,6 +10,7 @@ Added:
 - TekTopia
 - TekTopia Information
 - Xaero's Minimap
+- Xaero's World Map
 
 Removed:
 - ActuallyComputers (not needed)
@@ -54,9 +55,11 @@ Config Changes:
 - Removed obsolete custom recipes for removed mods
 
 Updated:
+- Animania
 - BetterDiving
 - Chisel
 - CraftPresence
+- Flux Networks
 - FTBLib
 - FTBQuests
 - JustEnoughItems (JEI)
