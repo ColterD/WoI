@@ -1,0 +1,23 @@
+v1.2.5
+
+Removed:
+- Reborn Core (see Refined Storage)
+- Reborn Storage (see Refined Storage)
+- Refined Storage (not needed, use AE2)
+- Refined Storage Addons (see Refined Storage)
+- Trees of Stages (cool, but not needed)
+
+Config Changes:
+- Completely lowered dragon spawn rate (1 in 360 to 1 in 2000)
+- Fixed incorrect WoI version on main menu
+- Increased the range between dens (120 to 2000)
+- Increased the range that Dragons generate from spawn (200 to 1000 blocks)
+- Lowered spawn weight of Trolls (500 to 40, different than Lycanites Trolls)
+
+Updated:
+- BetterDiving
+- Corail Tombstone
+- FTBLib
+- FTBQuests
+- Lycanites Mobs
+- Reborn Core
