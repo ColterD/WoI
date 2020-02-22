@@ -1,0 +1,99 @@
+Overview:
+The Multiplayer Update!
+Complete overhaul of the progression system to include game stages.  Hunting and mining dimensions merged with The Beneath mod.  Added content from minecraft patches up to 1.15 with Future MC mod.  FPS improvement when tabbed-out or idle with FPS Reducer.  LycanitesMobs removed just due to the continued trouble of developing with it and replaced with other (better) mods.  Better Diving removed, in the end, I was only using it for its underwater mechanic and for nothing else; seemed a waste.
+
+Added:
+- Better Animal Models
+- Better Animals Plus
+- Blur
+- Deep Sea Exploration
+- FPS Reducer
+- Future MC
+- JEI Hider
+- Just Enough Dimensions
+- Pick Up Notifier
+- Pyrotech
+- Rough Mobs 2
+- Save My Stronghold!
+- Serene Seasons + XML
+- SpecialAI
+- The Beneath
+- ☃ Snow! Real Magic!
+
+Removed:
+- Better Diving
+- Hunting Dimension
+- Lycanites Mobs
+- Mining Dimension
+
+Config:
+- Cleaned config files
+- Improved preloader time
+- Modified Pick Up Notifier scale and fade
+- Moved FPS Reducer RAM/CPU information to lower left-hand corner
+- Moved JEI search bar to the middle
+- Moved WAILA information to lower left-hand corner
+
+Updated:
+- Actually Additions
+- Better Animal Models
+- AE2 Wireless Terminal Library
+- Better Diving
+- Bonsai Trees 2
+- Bookshelf
+- Brandon's Core
+- Common Capabilities
+- ConnectedTexturesMod
+- Cooking for Blockheads
+- Cosmetic Armor Reworked
+- Corail Tombstone
+- CoroUtil
+- CraftPresence
+- CraftTweaker
+- Custom Main Menu
+- Cyclic
+- Cyclops Core
+- Dark Utilities
+- Draconic Evolution
+- Ender IO
+- Ender IO Endergy
+- ExtraCells2
+- Farseek
+- FastWorkbench
+- Flux Networks
+- FoamFix​
+- FTB Library
+- FTB Quests
+- GottschCore
+- Hammer (Lib) Core
+- Hunting Dimension
+- Ice and Fire: Dragons in a whole new light!
+- Inspirations
+- Mekanism
+- Mekanism Generators
+- Mekanism Tools
+- ModTweaker
+- MysticalLib
+- Nature's Compass
+- NuclearCraft
+- Pyrotech
+- Open Terrain Generator (OpenTerrainGenerator / OTG)
+- OpenBlocks Elevator
+- OpenComputers
+- p455w0rd's Library
+- RandomPatches
+- Reborn Core
+- RFTools
+- Rustic
+- Silent Lib
+- Streams
+- Tesla Core Lib
+- Thaumic Additions: Reconstructed
+- Tinkers Construct
+- Tinkers' Complement
+- Traveller's Backpack
+- UniDict
+- Wawla - What Are We Looking At
+- Wireless Crafting Terminal
+- Xaero's Minimap
+- Xaero's World Map
