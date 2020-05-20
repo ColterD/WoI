@@ -36,6 +36,7 @@ Added:
 
 Removed:
 - Better Diving
+- Cooking for Blockheads
 - Hunting Dimension
 - Lycanites Mobs
 - Mining Dimension
@@ -51,14 +52,17 @@ Config:
 Updated:
 - Actually Additions
 - AE2 Wireless Terminal Library
+- ArmorPlus
 - Better Animal Models
 - Better Diving
 - Bonsai Trees 2
 - Bookshelf
 - Brandon's Core
+- Chisel
+- CoFH Core
+- CoFH World
 - Common Capabilities
 - ConnectedTexturesMod
-- Cooking for Blockheads
 - Corail Tombstone
 - CoroUtil
 - Cosmetic Armor Reworked
@@ -69,6 +73,7 @@ Updated:
 - Cyclops Core
 - Dark Utilities
 - Draconic Evolution
+- End: Reborn
 - Ender IO
 - Ender IO Endergy
 - ExtraCells2
@@ -82,30 +87,54 @@ Updated:
 - Hammer (Lib) Core
 - Ice and Fire: Dragons in a whole new light!
 - Inspirations
+- Integration Foregoing
+- JEI Integration
+- Just Enough HarvestCraft
+- JustEnoughIDs
+- LibraryEx
+- Magneticraft
 - Mekanism
 - Mekanism Generators
 - Mekanism Tools
 - ModTweaker
 - MysticalLib
 - Nature's Compass
+- NetherEx
 - NuclearCraft
 - Open Terrain Generator (OpenTerrainGenerator / OTG)
 - OpenBlocks Elevator
 - OpenComputers
+- OpenSecurity
 - p455w0rd's Library
+- Pam's HarvestCraft
 - Pyrotech
+- Quark
+- Random Things
 - RandomPatches
+- RandomTweaks
 - Reborn Core
+- Redstone Arsenal
+- Redstone Flux
 - RFTools
 - Rustic
 - Silent Lib
+- Smooth Font
+- Storage Drawers
 - Streams
 - Tesla Core Lib
 - Thaumic Additions: Reconstructed
+- Thaumic Energistics
+- Thaumic Tinkerer
+- Thermal Dynamics
+- Thermal Expansion
+- Thermal Foundation
+- Thermal Innovation
+- Tinker I/O
 - Tinkers Construct
 - Tinkers' Complement
 - Traveller's Backpack
 - UniDict
+- VanillaFix
 - Wawla - What Are We Looking At
 - Wireless Crafting Terminal
 - Xaero's Minimap
