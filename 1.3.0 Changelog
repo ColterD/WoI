@@ -6,17 +6,23 @@ Added:
 - Better Animal Models
 - Better Animals Plus
 - Blur
+- Crafting Tweaks
 - Deep Sea Exploration
+- Double Slabs
 - FPS Reducer
+- FTB Utilities
 - Future MC
+- Gauges and Switches
 - JEI Hider
 - Just a Few Fish
 - Just Enough Dimensions
+- KleeSlabs
 - Macaw's Bridges
+- Macaw's Doors
+- Macaw's Furniture
 - Macaw's Roofs
 - Macaw's Windows
-- Macaw's Furniture
-- Macaw's Doors
+- No Default Auto-Jump
 - Pick Up Notifier
 - Pyrotech
 - Rough Mobs Revamped
@@ -24,6 +30,8 @@ Added:
 - Serene Seasons + XML
 - SpecialAI
 - The Beneath
+- Torch Slabs Mod
+- Waystones
 - ☃ Snow! Real Magic!
 
 Removed:
@@ -42,8 +50,8 @@ Config:
 
 Updated:
 - Actually Additions
-- Better Animal Models
 - AE2 Wireless Terminal Library
+- Better Animal Models
 - Better Diving
 - Bonsai Trees 2
 - Bookshelf
@@ -51,9 +59,9 @@ Updated:
 - Common Capabilities
 - ConnectedTexturesMod
 - Cooking for Blockheads
-- Cosmetic Armor Reworked
 - Corail Tombstone
 - CoroUtil
+- Cosmetic Armor Reworked
 - CraftPresence
 - CraftTweaker
 - Custom Main Menu
@@ -67,12 +75,11 @@ Updated:
 - Farseek
 - FastWorkbench
 - Flux Networks
-- FoamFix​
+- FoamFix​  (is now Asie's FPS Enhancer)
 - FTB Library
 - FTB Quests
 - GottschCore
 - Hammer (Lib) Core
-- Hunting Dimension
 - Ice and Fire: Dragons in a whole new light!
 - Inspirations
 - Mekanism
@@ -82,11 +89,11 @@ Updated:
 - MysticalLib
 - Nature's Compass
 - NuclearCraft
-- Pyrotech
 - Open Terrain Generator (OpenTerrainGenerator / OTG)
 - OpenBlocks Elevator
 - OpenComputers
 - p455w0rd's Library
+- Pyrotech
 - RandomPatches
 - Reborn Core
 - RFTools
