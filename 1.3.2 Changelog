@@ -1,5 +1,6 @@
-Server:
+Serverside Only:
 - Added Morpheus to Server (skip night with percentage)
+- Possible fix for Astral Sorcery sky glitches
 
 Added:
 - Pam's Weee! Flowers
@@ -40,6 +41,7 @@ Removed:
 Config:
 - Cleaned up quests
 - Cleaned up reward tables from quests
+- Cleaned/Fixed Main Menu
 - Creepers will now damage players (whoops)
 
 Recipes:
