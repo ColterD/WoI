@@ -1,14 +1,17 @@
+Server:
+- Added Morpheus to Server (skip night with percentage)
+
 Added:
 - Pam's Weee! Flowers
 - xXx_MoreToolMats_xXx (PlusTiC for 1.12)
 
 Removed:
+- Agricraft (not needed)
 - ComputerCraft  (only added for Turtles, not needed with OpenComputers)
-- Dropt  (not needed)
+- Dropt (not needed)
 - FastWorkbench (not needed)
 - Flux Networks (not needed)
 - Inventory Pets (not needed)
-- Item Filters (not needed)
 - Just Enough Calculation (not needed)
 - Magneticraft (amazing mod, doesn't fit with modpack)
 - More Overlays (not needed)
@@ -17,7 +20,9 @@ Removed:
 - OTG: Flatlands (not needed)
 - OTG: Skylands (not needed)
 - OTG: The Void (not needed)
+- Proportional Destruction Particles (has a lot of missing textures)
 - Puddles (not needed)
+- Pyrotech (cool, not needed and doesn't fit)
 - Rough Mobs Revamped (good mod, but don't agree with most of it)
 - Translocators 1.8.+ (not needed)
 - Uppers (not needed)
@@ -25,9 +30,12 @@ Removed:
 - ☃ Snow! Real Magic! (not needed)
 
 Config:
+- Cleaned up quests
+- Cleaned up reward tables from quests
 
 Recipes:
 - Added alternative ink recipe (using charcoal, vinegar, and water)
+- Fixed recipe for disk platters
 
 Updated:
 - Astral Sorcery
