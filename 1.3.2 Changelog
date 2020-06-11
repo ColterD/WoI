@@ -3,13 +3,16 @@ Server:
 
 Added:
 - Pam's Weee! Flowers
+- Steve's Carts Reborn
 - xXx_MoreToolMats_xXx (PlusTiC for 1.12)
 
 Removed:
 - Agricraft (not needed)
 - Aroma1997s Dimensional World (not needed)
 - ComputerCraft  (only added for Turtles, not needed with OpenComputers)
+- Crafting Tweaks (cool, not needed)
 - Dropt (not needed)
+- Ender Utilities (not needed)
 - FastWorkbench (not needed)
 - Flux Networks (not needed)
 - Inventory Pets (not needed)
@@ -24,6 +27,8 @@ Removed:
 - Proportional Destruction Particles (has a lot of missing textures)
 - Puddles (not needed)
 - Pyrotech (cool, not needed and doesn't fit)
+- RFTools Power (not needed)
+- RFTools Power / OC Integration (not needed)
 - Rough Mobs Revamped (good mod, but don't agree with most of it)
 - Translocators 1.8.+ (not needed)
 - Uppers (not needed)
@@ -33,6 +38,7 @@ Removed:
 Config:
 - Cleaned up quests
 - Cleaned up reward tables from quests
+- Creepers will now damage players (whoops)
 
 Recipes:
 - Added alternative ink recipe (using charcoal, vinegar, and water)
@@ -46,5 +52,6 @@ Updated:
 - Immersive Engineering
 - Mowzie's Mobs
 - Open Modular Turrets
+- Traveler's Backpack
 - Xaero's Minimap
 - Xaero's World Map
