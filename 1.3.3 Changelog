@@ -1,29 +1,110 @@
+Forge:
+Updated to 14.23.5.2855
+
 Server:
 - BTFU continuous rsync incremental backup
+
+Added:
+- End Portal Recipe
+- Macaw's Fences and Walls
+- Macaw's Trapdoors
 
 Removed:
 - Aroma1997Core
 - AromaBackup
 - FTB Backups
+- Rats!
 - Tech Reborn
 
-Config:
-
-Recipes:
+Resource Packs:
+- Better 3D Ores [ Glow Ores : Emissive Textures ]
+- Sortex Fanver - Modded (Updated)
+- Tinker's Tables (Added)
+- Unity: Dark Edition (Added)
 
 Updated:
-- Bewitchment
-- Corail Tombstone
-- Cyclic
-- Double Slabs
-- End: Reborn
-- Ender IO
-- Ender IO Endergy
-- FTB Library
-- FTB Utilities
-- Hammer (Lib) Core
-- Mo' Bends
-- NuclearCraft
-- Traveler's Backpack
-- Xaero's Minimap
-- Xaero's World Map
+[ANGRY PIXEL] The Betweenlands
+Actually Additions
+Animania Base
+AppleSkin
+Astral Sorcery
+Athenaeum
+AtomicStryker's Infernal Mobs
+Bad Wither No Cookie - Reloaded
+Better Animal Models
+Bewitchment (Legacy)
+Botania
+Brandon's Core
+Carry On
+Chance Cubes
+Charm
+Common Capabilities
+Corail Tombstone
+CraftPresence
+CraftTweaker
+Cyclic
+Cyclops Core
+Doggy Talents
+Double Slabs
+Draconic Evolution
+Electroblob's Wizardry
+End: Reborn
+Ender IO
+Ender IO Endergy
+Engineer's Doors
+Farseek
+FoamFix
+FPS Reducer
+FTB Library (Forge) (Legacy)
+FTB Quests (Forge)
+FTB Utilities (Forge)
+Future MC
+Gauges and Switches
+GunpowderLib
+Hammer (Lib) Core
+ICBM - Classic
+Immersive Petroleum
+InfinityLib
+Integration Foregoing
+Item Filters (Forge)
+Just Enough HarvestCraft (JEHC)
+Just Enough Items (JEI)
+LibraryEx
+LLibrary
+Macaw's Bridges
+Macaw's Doors
+Mo' Bends
+ModTweaker
+MovingWorld
+Mowzie's Mobs
+MTLib
+MysticalLib
+NetherEx
+NuclearCraft
+Open Modular Passive Defense
+Open Modular Turrets
+Open Terrain Generator (OTG)
+OpenSecurity
+Patchouli
+Pick Up Notifier
+RandomPatches (Forge)
+RandomTweaks
+Reborn Core
+Rustic
+SimpleHarvest
+Simply Jetpacks 2
+SpatialCompat
+Streams
+Stupid Things
+Tesla Core Lib
+Thaumic Additions: Reconstructed
+The Beneath
+The Twilight Forest
+Tinker I/O
+Traveler's Backpack
+UniDict
+WanionLib
+Water Strainer
+Xaero's Minimap
+Xaero's World Map
+xXx_MoreToolMats_xXx (a PlusTiC fork without the evil, and apparently some new bugs idk)
