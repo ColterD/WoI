@@ -5,8 +5,15 @@ Highly recommended to use the OTG Thaumic Traveler's Dream preset.
 Issues:
 -Sky still flickering.  Not sure how to fix.
 
+Scripting:
+- Cleaned up some Tooltip text
+
+Added:
+- YAMDA - Yet Another Mining Dimension Attempt
+
 Removed:
 - HT's TreeChop (didn't work as expected)
+- Tech Reborn (simply not needed)
 - Villager Market (didn't work as expected)
 
 Resource Packs:
