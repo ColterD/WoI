@@ -2,6 +2,9 @@ Note:
 Please create a new world if updating from 1.3.2 or below.
 Highly recommended to use the OTG Thaumic Traveler's Dream preset.
 
+Config:
+- Modified Mekanism machine sounds to be super quieter (but not silent)
+
 Added:
 - Gas conduits (EnderIO)
 - Rats! (re-added)
