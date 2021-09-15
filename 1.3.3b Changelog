@@ -1,28 +1,45 @@
 Partnered with Bisect Hosting!
+Changed biome generation to Biomes O' Plenty w/ Traverse.
+Last time i'm messing with biome generation forever.™
+
+Known Issues:
+After a while with lots of chunks being loaded, it'll start lagging periodically and require a complete restart of game.  Not sure why.
 
 Main Menu:
 - Changed main menu background
 
-Config:
+Config:.
+- Disabled Totemic Tipi spawning in Villages
+- Disabled Totemic Skeletons attacking Buffalos
+- Disabled Mekanism Teleporters, use Stargate
 - Enabled AE2 Quartz cutting knives (for cable anchors/facades)
-- Disabled TekTopia book spawning (buggy)
 - Modified Industrial Foregoing Meat Feeder recipe
 - Modified Mekanism machine sounds to be super quieter (but not silent)
+- Modified Vampirism Vampire Hunters to be extremely more rare
+- Modified Vampirism Vampires to be more rare
+
+Swapped:
+- Nuclearcraft for Nuclearcraft Overhauled
 
 Added:
-- Biome Bundle O Plenty
+- Better Ping Display
+- BetterPortals
 - Biomes O' Plenty
+- Engineer's Decor
 - Gas conduits (EnderIO)
+- Industrial Renewal
 - MineColonies (Tektopia abandoned)
 - NetherEx
+- QMD
+- Stargate Network
 - Stygian End: Biome Expansion
+- Traverse
 
 Removed:
 - Biome Bundle
 - Bonsai Trees
 - End Portal Recipe (changes with The End)
 - Just Enough Dimensions (unused)
-- MineTweaker RecipeMaker (not needed in release builds)
 - Tektopia (abandoned)
 - Tektopia Information (abandoned)
 - Thaumic Traveler's Dream (OTG preset; after further research, not needed)
