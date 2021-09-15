@@ -1,14 +1,26 @@
-Note:
-Please create a new world if updating from 1.3.2 or below.
-Highly recommended to use the OTG Thaumic Traveler's Dream preset.
+Partnered with Bisect Hosting!
+
+Main Menu:
+- Changed main menu background
 
 Config:
 - Enabled AE2 Quartz cutting knives (for cable anchors/facades)
+- Disabled TekTopia book spawning (buggy)
+- Modified Industrial Foregoing Meat Feeder recipe
 - Modified Mekanism machine sounds to be super quieter (but not silent)
 
 Added:
 - Gas conduits (EnderIO)
-- Rats! (re-added)
+- MineColonies
+
+Removed:
+- Bonsai Trees
+- End: Reborn (changes with The End)
+- End Portal Recipe (changes with The End)
+- Just Enough Dimensions (unused)
+- MineTweaker RecipeMaker (not needed in release builds)
+- Tektopia (abandoned)
+- Tektopia Information (abandoned)
 
 Updated:
 - Collective
