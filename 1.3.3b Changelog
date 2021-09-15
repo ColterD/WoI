@@ -10,17 +10,22 @@ Config:
 - Modified Mekanism machine sounds to be super quieter (but not silent)
 
 Added:
+- Biome Bundle O Plenty
+- Biomes O' Plenty
 - Gas conduits (EnderIO)
-- MineColonies
+- MineColonies (Tektopia abandoned)
+- NetherEx
+- Stygian End: Biome Expansion
 
 Removed:
+- Biome Bundle
 - Bonsai Trees
-- End: Reborn (changes with The End)
 - End Portal Recipe (changes with The End)
 - Just Enough Dimensions (unused)
 - MineTweaker RecipeMaker (not needed in release builds)
 - Tektopia (abandoned)
 - Tektopia Information (abandoned)
+- Thaumic Traveler's Dream (OTG preset; after further research, not needed)
 
 Updated:
 - Collective
