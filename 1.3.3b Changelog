@@ -4,13 +4,12 @@ Last time i'm messing with biome generation forever.™
 
 Known Issues:
 - After a while with lots of chunks being loaded, it'll start lagging periodically and require a complete restart of game.  Not sure why.
-- Known issue with VanillaFix, mod name appended with underscore to fix bug issue.  See more: https://github.com/DimensionalDevelopment/VanillaFix/issues/265
-
+- Known issue with VanillaFix (Mixins), mod name appended with underscore to fix bug issue.  See more: https://github.com/DimensionalDevelopment/VanillaFix/issues/265
 
 Main Menu:
 - Changed main menu background
 
-Config:.
+Config:
 - Disabled Totemic Tipi spawning in Villages
 - Disabled Totemic Skeletons attacking Buffalos
 - Disabled Mekanism Teleporters, use Stargate
@@ -27,6 +26,7 @@ Added:
 - Better Ping Display
 - BetterPortals
 - Biomes O' Plenty
+- Electroblob's Wizardry: Twilight Forest Spell Pack
 - Engineer's Decor
 - Gas conduits (EnderIO)
 - Industrial Renewal
