@@ -15,7 +15,6 @@ Main Menu:
 - Changed main menu background
 
 Config:
-- Disabled Dragon griefing on weak blocks
 - Disabled Forestry starter book, check Akashic Tome
 - Disabled Mekanism Teleporters, use Stargate
 - Disabled Nuclearcraft Guidebook starter book
@@ -25,6 +24,7 @@ Config:
 - Disabled Totemic Skeletons attacking Buffalos
 - Disabled Totemic Tipi spawning in Villages
 - Doubled default world amplification
+- Dragon (Ice and Fire) damage limited to weak blocks. (cobblestone, dirt, wood, etc)
 - Enabled AE2 Quartz cutting knives (for cable anchors/facades)
 - Modified Industrial Foregoing Meat Feeder recipe
 - Modified Mekanism machine sounds to be super quieter (but not silent)
@@ -52,13 +52,14 @@ Added:
 Removed:
 - Biome Bundle (OTG)
 - Blur (VanillaFix bug)
-- Bonsai Trees
+- Bonsai Trees (for difficulty, use cloches or naturally)
 - Davinci's Vessels (for server stability)
 - End Portal Recipe (changes with The End)
 - General Layman's Aesthetic Spying Screen (GLASS) (cool but not needed, use portals?)
-- ICBM Classic (LOL not on server no way)
-- Open Terrain Generator
+- ICBM Classic
+- Open Terrain Generator (change in generation)
 - Just Enough Dimensions (unused)
+- Snad (not needed)
 - Tektopia (abandoned)
 - Tektopia Information (abandoned)
 - Thaumic Traveler's Dream (OTG)
