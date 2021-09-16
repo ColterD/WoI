@@ -23,7 +23,6 @@ Config:
 - Disabled Stymphalian birds spawning
 - Disabled Totemic Skeletons attacking Buffalos
 - Disabled Totemic Tipi spawning in Villages
-- Doubled default world amplification
 - Dragon (Ice and Fire) damage limited to weak blocks. (cobblestone, dirt, wood, etc)
 - Drastically decreased the spawn rate of Ice and Fire Sea Serpents
 - Enabled AE2 Quartz cutting knives (for cable anchors/facades)
@@ -31,6 +30,7 @@ Config:
 - Modified Mekanism machine sounds to be super quieter (but not silent)
 - Modified Vampirism Vampire Hunters to be extremely more rare
 - Modified Vampirism Vampires to be more rare
+- Modified world gen amplication by 1.5x
 
 Swapped:
 - Nuclearcraft for Nuclearcraft Overhauled
@@ -55,7 +55,6 @@ Removed:
 - Blur (VanillaFix bug)
 - Bonsai Trees (for difficulty, use cloches or naturally)
 - Davinci's Vessels (for server stability)
-- End Portal Recipe (changes with The End)
 - General Layman's Aesthetic Spying Screen (GLASS) (cool but not needed, use portals?)
 - ICBM Classic
 - Open Terrain Generator (change in generation)
