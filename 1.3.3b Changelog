@@ -10,9 +10,16 @@ Main Menu:
 - Changed main menu background
 
 Config:
-- Disabled Totemic Tipi spawning in Villages
-- Disabled Totemic Skeletons attacking Buffalos
+- Disabled Dragon griefing on weak blocks
+- Disabled Forestry starter book, check Akashic Tome
 - Disabled Mekanism Teleporters, use Stargate
+- Disabled Nuclearcraft Guidebook starter book
+- Disabled Quark Limestone, Marble, and Slate ores from spawning
+- Disabled Simply Jetpacks 2 useless achievement
+- Disabled Stymphalian birds spawning
+- Disabled Totemic Skeletons attacking Buffalos
+- Disabled Totemic Tipi spawning in Villages
+- Doubled default world amplification
 - Enabled AE2 Quartz cutting knives (for cable anchors/facades)
 - Modified Industrial Foregoing Meat Feeder recipe
 - Modified Mekanism machine sounds to be super quieter (but not silent)
