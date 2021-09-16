@@ -3,7 +3,9 @@ Changed biome generation to Biomes O' Plenty w/ Traverse.
 Last time i'm messing with biome generation forever.™
 
 Known Issues:
-After a while with lots of chunks being loaded, it'll start lagging periodically and require a complete restart of game.  Not sure why.
+- After a while with lots of chunks being loaded, it'll start lagging periodically and require a complete restart of game.  Not sure why.
+- Known issue with VanillaFix, mod name appended with underscore to fix bug issue.  See more: https://github.com/DimensionalDevelopment/VanillaFix/issues/265
+
 
 Main Menu:
 - Changed main menu background
