@@ -5,6 +5,7 @@ Last time i'm messing with biome generation forever.™
 Known Issues:
 - After a while with lots of chunks being loaded, it'll start lagging periodically and require a complete restart of game.  Not sure why.
 - Known issue with VanillaFix (Mixins), mod name appended with underscore to fix bug issue.  See more: https://github.com/DimensionalDevelopment/VanillaFix/issues/265
+- Swapping Nuclearcraft versions will *probably* break reactors or machines requiring replacement.
 
 Quests:
 - Cleaned up broken quests
@@ -49,17 +50,18 @@ Added:
 - Traverse
 
 Removed:
-- Biome Bundle
+- Biome Bundle (OTG)
 - Blur (VanillaFix bug)
 - Bonsai Trees
 - Davinci's Vessels (for server stability)
 - End Portal Recipe (changes with The End)
 - General Layman's Aesthetic Spying Screen (GLASS) (cool but not needed, use portals?)
 - ICBM Classic (LOL not on server no way)
+- Open Terrain Generator
 - Just Enough Dimensions (unused)
 - Tektopia (abandoned)
 - Tektopia Information (abandoned)
-- Thaumic Traveler's Dream (OTG preset; after further research, not needed)
+- Thaumic Traveler's Dream (OTG)
 
 Resource Packs:
 - Blinking Ender Eyes
