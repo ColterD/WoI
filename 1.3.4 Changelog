@@ -13,6 +13,7 @@ Quests:
 - Cleaned up broken quests
 - Cleaned up broken quest rewards
 
+
 Main Menu:
 - Changed main menu background
 
@@ -75,3 +76,6 @@ Updated:
 - MysticalLib
 - OpenSecurity
 - Xaero's World Map
+
+Misc:
+- Cleaned up Config folder
