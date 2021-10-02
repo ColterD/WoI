@@ -7,6 +7,7 @@ Possibly Fixed:
 - Memory leaks found in 1.3.4 possibly patched out with Athenaeum update. See: https://github.com/codetaylor/athenaeum-1.12/issues/8
 
 Config:
+- Allowed harvesting Stargate blocks without destroying them
 - Changed end-game Vampirism block "Sunscreen" to 64 blocks from 32
 - Changed Stargate dialing speed from 2.0 to 5.0
 - Turned Vampire Forest fog off completely
@@ -14,7 +15,7 @@ Config:
 
 Scripting:
 - Added Storage Drawers Extras compatibility for Storage Drawers Upgrade Template (oredict)
-- Allowed Steel to be made in Tinkers forge
+- Fixed Immersive Engineering Fluid Pipes recipe to work
 
 Added:
 - ME Capability Adapter (Compact Machinery 3)
