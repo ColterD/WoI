@@ -1,5 +1,22 @@
+Note:  Curseforge bug causing QMD to appear out of date but it isn't.
+
+Known Bugs:
+- Modular Power Suits showing as blank/invisible texture instead of normal, not sure how to fix
+
+Possibly Fixed:
+- Memory leaks found in 1.3.4 possibly patched out with Athenaeum update. See: https://github.com/codetaylor/athenaeum-1.12/issues/8
+
+Config:
+- Allowed Steel to be made in Tinkers forge
+- Changed end-game Vampirism block "Sunscreen" to 64 blocks from 32
+- Turned Vampire Forest fog off completely
+- Tweaked Vampirism Hunter camp spawns from 1:100 to 1:50
+
+Scripting:
+- Added Storage Drawers Extras compatibility for Storage Drawers Upgrade Template (oredict)
+
 Added:
-- ME Capability Adapter
+- ME Capability Adapter (Compact Machinery 3)
 
 Updated:
 - Athenaeum
@@ -15,4 +32,4 @@ Updated:
 - Xaero's World Map
 
 Resource Packs:
-- Removed Blinking Ender Eyes (conflict with End: Reborn)
+- Removed Blinking Ender Eyes (conflict with End: Reborn, sorry)
